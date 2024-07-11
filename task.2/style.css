@@ -1,0 +1,30 @@
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.Box {
+    width: 40px;
+    height: 40px;
+    padding: 40px;
+    background-color: gray;
+    border: 10px solid darkblue;
+}
+
+.Box1 {
+    display: inline-block;
+    width: 100px;
+    height: 10px;
+    background-color: white;
+    border-radius: 40px;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+ .Box2 {
+    
+ }
+
+
+ 
